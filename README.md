@@ -1,6 +1,6 @@
 <h1 align='center'>Привет, меня зовут Максим<span><img src='https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif' width='80px'></span></h1>
 <h2>О себе:</h2>
-<p>Я Frontend-разработчик из Сибири! В IT я уже 4 года, за это время попробовал себя в таких направлениях как QA, Suport Engineer, Lead of Customer Support. На данный момент являюсь Frontend-разработчиком.</p>  
+<p>Я Frontend-разработчик из Сибири! В IT я уже 4 года, за это время попробовал себя в таких направлениях как QA, Support Engineer, Lead of Customer Support. На данный момент являюсь Frontend-разработчиком.</p>  
 
 ### Хобби:
 Программирование, куда же без него :computer:   
