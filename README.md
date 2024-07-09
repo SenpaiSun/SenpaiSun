@@ -33,7 +33,6 @@
 ### Codewars/Leetcode:
 
 [![codewars](https://www.codewars.com/users/SenpaiSun/badges/large)](https://www.codewars.com/users/SenpaiSun)  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SenpaiSun&theme=dark)](https://github.com/KnlnKS/leetcode-stats)  
 
 
 <!--
